@@ -310,6 +310,7 @@ h3{
 
 /* ---------- ABOUT INFO ------------ */
 .about-info{
+    margin-bottom: 30px;
     position: relative;
     display: flex;
     align-items: center;
@@ -420,7 +421,7 @@ h3{
 }
 .contact-info>h2{
     color: var(--color-white);
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .contact-info>p{
     display: flex;
